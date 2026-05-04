@@ -1,7 +1,7 @@
 ### Olá, eu sou o Eduardo!👋
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Imagem">
+  <img align="center" src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" alt="Imagem">
 </p>
 
 ###
