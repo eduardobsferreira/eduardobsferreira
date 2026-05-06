@@ -2,7 +2,7 @@
 <!-- GIF -->
 <p align="left">
   <img align="center" src="https://raw.githubusercontent.com/DhruvGorasiya/DhruvGorasiya/main/header.gif" 
-    width="700" height="500" alt="Imagem">
+    width="100%" alt="Imagem">
 </p>
 
 ###
