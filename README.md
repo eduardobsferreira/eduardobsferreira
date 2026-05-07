@@ -32,11 +32,8 @@
 ###
 
 - 👾 Estou aprendendo kotlin e outras linguagens da programação.
-- 🏳️‍⚧️ Pronomes: Ele/Dele Elu/Delu
-- 🎬 Curiosidades: Adoro falar de filmes, séries, reality shows e cultura pop em geral.
+
 
 ###
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31rlduionky45b4kyuw7fzm2cyli&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31rlduionky45b4kyuw7fzm2cyli&redirect=true )
 
 
