@@ -30,10 +30,10 @@
 </div>
 
 ## 🛠️ O que eu domino (e o que estou aprendendo)
-No Mobile: Meu foco principal é Android, utilizando Kotlin e Jetpack Compose para criar experiências fluidas.
-Na Web: Domínio de HTML, CSS e Python para interfaces responsivas.
-Dados: Atualmente mergulhado nos estudos de MongoDB, explorando o mundo dos bancos de dados NoSQL.
-Base Técnica: Lógica de programação sólida e constante evolução em algoritmos.
+- No Mobile: Meu foco principal é Android, utilizando Kotlin e Jetpack Compose para criar experiências fluidas.
+- Na Web: Domínio de HTML, CSS e JavaScript para interfaces responsivas.
+- Dados: Atualmente mergulhado nos estudos de MongoDB, explorando o mundo dos bancos de dados NoSQL.
+- Base Técnica: Lógica de programação sólida e constante evolução em algoritmos.
 
 
 ###
