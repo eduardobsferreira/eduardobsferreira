@@ -1,7 +1,7 @@
 ### Olá, eu sou o Eduardo!👋
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="" 
+  <img align="center" src="Group 20.png" 
     width="100%" alt="Imagem">
 </p>
 
