@@ -1,7 +1,7 @@
 ### Olá, eu sou o Eduardo!👋
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://raw.githubusercontent.com/DhruvGorasiya/DhruvGorasiya/main/header.gif" 
+  <img align="center" src="" 
     width="100%" alt="Imagem">
 </p>
 
