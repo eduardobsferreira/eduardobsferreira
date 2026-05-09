@@ -1,5 +1,5 @@
-### Olá, eu sou o Eduardo!👋
-<!-- GIF -->
+
+<!-- Banner -->
 <p align="left">
   <img align="center" src="Group 20.png" 
     width="100%" alt="Imagem">
