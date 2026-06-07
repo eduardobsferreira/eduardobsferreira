@@ -25,40 +25,21 @@
         <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" height="40" alt="MongoDb" />
         <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" height="40" alt="Figma" />
        
+    
       
-
-</div>
-
-## 🛠️ O que eu domino (e o que estou aprendendo)
-- No Mobile: Meu foco principal é Android, utilizando Kotlin e Jetpack Compose para criar experiências fluidas.
-- Na Web: Domínio de HTML, CSS e JavaScript para interfaces responsivas.
-- Dados: Atualmente mergulhado nos estudos de MongoDB, explorando o mundo dos bancos de dados NoSQL.
-- Base Técnica: Lógica de programação sólida e constante evolução em algoritmos.
-
-
-###
-
-# 👋 Olá, eu sou o Eduardo!
-
-Estudante de desenvolvimento apaixonado por mobile e web.
-Sempre aprendendo, sempre construindo.
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E44D26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
----
-
 ## 🛠️ O que estou aprendendo
 
 - 📱 **Mobile:** Kotlin + Jetpack Compose para Android — foco em experiências fluidas e interfaces modernas.
 - 🌐 **Web:** HTML, CSS e JavaScript para interfaces responsivas e acessíveis.
 - 🗄️ **Dados:** Estudando MongoDB e bancos de dados NoSQL. *(em progresso)*
 - 💡 **Base técnica:** Lógica de programação e algoritmos em constante evolução.
+
+---
+
+## 🎯 Objetivos
+
+- 🔀 **Tornar-me desenvolvedor full-stack** — Unir mobile com Android/Kotlin, web com HTML, CSS e JavaScript, e back-end com Python, dominando todo o ciclo de desenvolvimento de um produto.
+- 🚀 **Construir projetos reais** — Colocar em prática o que aprendo criando aplicações completas, do front-end ao banco de dados.
 
 ---
 
