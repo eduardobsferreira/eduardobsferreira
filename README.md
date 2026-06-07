@@ -38,4 +38,30 @@
 
 ###
 
+# 👋 Olá, eu sou o Eduardo!
+
+Estudante de desenvolvimento apaixonado por mobile e web.
+Sempre aprendendo, sempre construindo.
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E44D26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+---
+
+## 🛠️ O que estou aprendendo
+
+- 📱 **Mobile:** Kotlin + Jetpack Compose para Android — foco em experiências fluidas e interfaces modernas.
+- 🌐 **Web:** HTML, CSS e JavaScript para interfaces responsivas e acessíveis.
+- 🗄️ **Dados:** Estudando MongoDB e bancos de dados NoSQL. *(em progresso)*
+- 💡 **Base técnica:** Lógica de programação e algoritmos em constante evolução.
+
+---
+
+*Estudante em jornada — cada linha de código é um passo a mais.* 🚀
+
 
