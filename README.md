@@ -1,7 +1,7 @@
 
 <!-- Banner -->
 <p align="left">
-  <img align="center" src="Group 20.png" 
+  <img align="center" src="download.jpg" 
     width="100%" alt="Imagem">
 </p>
 
