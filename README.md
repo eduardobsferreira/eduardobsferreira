@@ -1,7 +1,7 @@
 
 <!-- Banner -->
 <p align="left">
-  <img align="center" src="download.jpg" 
+  <img align="center" src="download.gif" 
     width="100%" alt="Imagem">
 </p>
 
