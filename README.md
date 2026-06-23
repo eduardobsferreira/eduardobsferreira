@@ -1,8 +1,7 @@
 
 <!-- Banner -->
 <p align="left">
-  <img align="center" src="download.gif" 
-    width="100%" alt="Imagem">
+<img width="750" height="422" alt="image" src="https://github.com/user-attachments/assets/665c3183-b1e2-434f-81c3-af082a7c7d05" />
 </p>
 
 ###
