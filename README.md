@@ -27,11 +27,12 @@
     
       
 ## 🛠️ O que estou aprendendo
-
+- Estudante de Análise e desenvolvimento de sistemas na FATEC-SP
 - 📱 **Mobile:** Kotlin + Jetpack Compose para Android — foco em experiências fluidas e interfaces modernas.
 - 🌐 **Web:** HTML, CSS e JavaScript para interfaces responsivas e acessíveis.
 - 🗄️ **Dados:** Estudando MongoDB e bancos de dados NoSQL. *(em progresso)*
 - 💡 **Base técnica:** Lógica de programação e algoritmos em constante evolução.
+  
 
 ---
 
